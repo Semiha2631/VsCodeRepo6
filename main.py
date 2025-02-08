@@ -9,7 +9,7 @@ Bu proje, Python ile yazılmış bir banka hesap yönetim sistemidir. Kullanıc�
  :white_check_mark: Kullanıcı verilerini CSV dosyasında saklama
 :rocket: Kurulum ve Çalıştırma
 :one: Depoyu Klonla
-#dosta avama
+# dosta avama
 :two: Gerekli Bağımlılıkları Yükle
 Bu proje, standart Python kütüphanelerini kullanmaktadır. Harici bir bağımlılık gerekmemektedir. Ancak, bağımsız bir ortam oluşturmak için virtual environment kullanabilirsiniz:
 pthon -m venv venv
